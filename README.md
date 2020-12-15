@@ -1,4 +1,5 @@
-<h3>Mr-Nihal-Mulla</h3>
+<h1>Mr-Nihal-Mulla</h1>
+<h4>https://mr-nihal-mulla.github.io/TechProps/</h4>
 <h1 align="center">Hi 👋, I'm Nihal</h1>
 <h3 align="center">A passionate MERN developer from India 🇮🇳</h3>
 
