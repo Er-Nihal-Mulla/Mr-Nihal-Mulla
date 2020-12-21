@@ -1,4 +1,6 @@
-<h1>Mr-Nihal-Mulla</h1>
+### Hi there 👋, I am Nihal
+#### Full Stack Developer and Youtuber TechProps - - CyberGuy :)
+![Full Stack Developer and Youtuber aka Backbench Coder :)](https://github.com/Mr-Nihal-Mulla/Mr-Nihal-Mulla/blob/main/Profile%20Background%20.png)
 <h5>You can reach out through below link</h5>
 <h4>https://mr-nihal-mulla.github.io/TechProps/</h4>
 <h1 align="center">Hi 👋, I'm Nihal</h1>
